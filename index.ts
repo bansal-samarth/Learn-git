@@ -4,3 +4,7 @@
 function greet(name: string): string {
     return `Hello, ${name}!`;
 }
+
+function trying() {
+    console.log(greet("World"));
+}
