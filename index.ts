@@ -8,3 +8,5 @@ function greet(name: string): string {
 function trying() {
     console.log(greet("World"));
 }
+
+// writing in production code
